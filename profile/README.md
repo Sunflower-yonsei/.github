@@ -2,6 +2,12 @@
 
 **_어떤 교재든 텍스트 뿐만 아니라 수식도 점자로 변환해주는 교육용 AI 점역 소프트웨어_**
 
+## 🌻 해바라기 소스 코드
+
+- [Server](https://github.com/Sunflower-yonsei/sunflower-server) (public)
+- [Client](https://github.com/Sunflower-yonsei/Sunflower_FE) (공개 예정)
+- [자체 점역 알고리즘](https://github.com/Sunflower-yonsei/sunflower-algorithm) (private)
+
 ## 🌻 해바라기 팀 소개
 
 ### 박준형 (Client, AI Developer)
@@ -10,12 +16,11 @@
 - Junction Hackathon 기획 참여, 매장 사용을 촉진할 수 있는 새로운 키오스크 폼팩터 KiWee 개발 (2023.08)
 - DB금융경제공모전 ‘딥러닝 모델을 활용한 재생 에너지 발전소 최적 입지 선정 - 지역 균형 발전 및 RE100 지향 투자 적정성 제안’ 딥러닝 분석 제안 및 개발 (2024.01 ~)
 
-### 조은기 (Server Developer)
+### [조은기]((https://github.com/gitchannn) (Server Developer)
 
 - 연세대학교 컴퓨터과학과 & 산업공학과 재학 (2019.03 ~)
 - 우아한형제들 산하 프로그래머 교육기관 우아한테크코스 5기 백엔드 수료 (2023.02 ~ 2023.11)
 - 2022 국립재활원 시청각장애인 대상 보조기기 해커톤 대상(보건복지부 장관상) 수상 (인공지능 EMS 점자 수트)
-- [깃허브](https://github.com/gitchannn)
 - [기술블로그 깃짱코딩](https://engineerinsight.tistory.com/)
 
 ### 장현우 (AI Developer)
