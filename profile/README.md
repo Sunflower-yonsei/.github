@@ -1,12 +1,15 @@
-## Hi there 👋
+### _시각장애인을 위한 빠르고 정확한 수학교재 인공지능 점자 변환 서비스, 🌻 Sunny Braille_
 
-<!--
+**_어떤 교재든 텍스트 뿐만 아니라 수식도 점자로 변환해주는 교육용 AI 점역 소프트웨어_**
 
-**Here are some ideas to get you started:**
+## 🌻 해바라기 팀 소개
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 조은기 (Server Developer)
+
+- 연세대학교 컴퓨터과학과 & 산업공학과 재학 (2019 ~)
+- 우아한형제들 산하 프로그래머 교육기관 우아한테크코스 5기 백엔드 수료
+- [깃허브](https://github.com/gitchannn)
+- [기술블로그 깃짱코딩](https://engineerinsight.tistory.com/)
+
+
+
