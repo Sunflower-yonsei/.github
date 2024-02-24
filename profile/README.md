@@ -5,7 +5,7 @@
 ## 🌻 해바라기 소스 코드
 
 - [Server](https://github.com/Sunflower-yonsei/sunflower-server) (public)
-- [Client](https://github.com/Sunflower-yonsei/Sunflower_FE) (공개 예정)
+- [Client](https://github.com/Sunflower-yonsei/Sunflower_FE) (forked, react ver. public)
 - [자체 점역 알고리즘](https://github.com/Sunflower-yonsei/sunflower-algorithm) (private)
 
 ## 🌻 해바라기 팀 소개
