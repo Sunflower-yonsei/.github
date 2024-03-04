@@ -8,7 +8,7 @@
 ## 🌻 해바라기 소스 코드
 
 - [Server](https://github.com/sunnybraille/sunnybraille-server) (public)
-- [Client](https://github.com/sunnybraille/sunnybraille-client) (forked, react ver. public)
+- [Client](https://github.com/sunnybraille/sunnybraille-client) (public)
 - [자체 점역 알고리즘](https://github.com/sunnybraille/sunnybraille-algorithm) (private)
 
 ## 🌻 해바라기 팀 소개
