@@ -3,6 +3,8 @@
 
 <img width="1391" alt="image" src="https://github.com/Sunflower-yonsei/.github/assets/115399447/798cd658-eacc-4bec-85d0-19e86afeec71">
 
+### [Sunny Braille의 product 이야기 바로가기](https://github.com/sunnybraille/sunnybraille-product)
+
 ## 🌻 해바라기 소스 코드
 
 - [Server](https://github.com/Sunflower-yonsei/sunflower-server) (public)
