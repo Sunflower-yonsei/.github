@@ -3,13 +3,13 @@
 
 <img width="1391" alt="image" src="https://github.com/Sunflower-yonsei/.github/assets/115399447/798cd658-eacc-4bec-85d0-19e86afeec71">
 
-### [Sunny Braille의 product 이야기 바로가기](https://github.com/sunnybraille/sunnybraille-product)
+### [About Sunny Braille...](https://github.com/sunnybraille/about-sunnybraille)
 
 ## 🌻 해바라기 소스 코드
 
-- [Server](https://github.com/Sunflower-yonsei/sunflower-server) (public)
-- [Client](https://github.com/Sunflower-yonsei/Sunflower_FE) (forked, react ver. public)
-- [자체 점역 알고리즘](https://github.com/Sunflower-yonsei/sunflower-algorithm) (private)
+- [Server](https://github.com/sunnybraille/sunnybraille-server) (public)
+- [Client](https://github.com/sunnybraille/sunnybraille) (forked, react ver. public)
+- [자체 점역 알고리즘](https://github.com/sunnybraille/sunnybraille-algorithm) (private)
 
 ## 🌻 해바라기 팀 소개
 
