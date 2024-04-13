@@ -1,19 +1,16 @@
 ### _시각장애인을 위한 빠르고 정확한 수학교재 인공지능 점자 변환 서비스, 🌻 Sunny Braille_
+
 **_어떤 교재든 텍스트 뿐만 아니라 수식도 점자로 변환해주는 교육용 AI 점역 소프트웨어_**
-
-[서비스 바로가기](https://www.sunnybraille.com/)
-
-<img width="1391" alt="image" src="https://github.com/Sunflower-yonsei/.github/assets/115399447/798cd658-eacc-4bec-85d0-19e86afeec71">
 
 ### [About Sunny Braille...](https://github.com/sunnybraille/about-sunnybraille)
 
-## 🌻 해바라기 소스 코드
+## ✔️ 해바라기 소스 코드
 
 - [Server](https://github.com/sunnybraille/sunnybraille-server) (public)
 - [Client](https://github.com/sunnybraille/sunnybraille-client) (public)
 - [자체 점역 알고리즘](https://github.com/sunnybraille/sunnybraille-algorithm) (private)
 
-## 🌻 해바라기 팀 소개
+## ✔️ 해바라기 팀 소개
 
 ### 박준형 (Client Developer & Deep learning Engineer)
 
@@ -60,7 +57,7 @@
 - 법무법인 디라이트(D'LIGHT Law Group) Externship `2024.03 ~`
 - SK 행복나눔재단 시각장애학생 지표측정튜터링 참여 `2023.03 ~`
 
-## 🌻 수상
+## ✔️ 수상
 
 - 연세대학교 공과대학 수업성과 아이디어 경진대회 장려상 `23.07.09`
 - 지속가능발전목표 달성 영상 켐페인 공모전 우수상 `23.07.21`
