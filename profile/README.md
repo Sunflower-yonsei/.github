@@ -1,10 +1,6 @@
 ### _시각장애인을 위한 빠르고 정확한 수학교재 인공지능 점자 변환 서비스_
 **_어떤 교재든 텍스트 뿐만 아니라 수식도 점자로 변환해주는 교육용 AI 점역 소프트웨어_**
 
-[서비스 바로가기](https://www.sunnybraille.com/)
-
-<img width="1391" alt="image" src="https://github.com/Sunflower-yonsei/.github/assets/115399447/798cd658-eacc-4bec-85d0-19e86afeec71">
-
 ### [About Sunny Braille...](https://github.com/sunnybraille/about-sunnybraille)
 
 ## ✔️ 소스 코드
@@ -15,7 +11,7 @@
 
 ## ✔️ 팀원 소개
 
-### 장현우 (CEO)
+### [장현우](https://github.com/J-nowcow) (CEO)
 
 - **연세대학교 산업공학과 & 응용통계학과** 재학 `2019.03 ~`
 - **SW마에스트로** 14기 수료 `2023.04 ~ 2023.11`
@@ -33,7 +29,7 @@
 - 2022 국립재활원 시청각장애인 보조기기 해커톤 대상 (보건복지부 장관상) 수상 (인공지능 EMS 점자 수트)
 - 기술블로그 [**깃짱코딩**](https://engineerinsight.tistory.com/) 운영
 
-### 박준형 (Deep learning Engineer)
+### [박준형](https://github.com/jun-brro) (Deep learning Engineer)
 
 - **연세대학교 나노과학공학과** 재학
 - Junction Hackathon 기획 참여, 매장 사용을 촉진할 수 있는 새로운 **키오스크 폼팩터 KiWee** 개발 `2023.08`
