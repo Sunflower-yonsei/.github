@@ -4,29 +4,15 @@
 
 ### [About Sunny Braille...](https://github.com/sunnybraille/about-sunnybraille)
 
-## ✔️ 해바라기 소스 코드
+## ✔️ 소스 코드
 
 - [Server](https://github.com/sunnybraille/sunnybraille-server) (public)
 - [Client](https://github.com/sunnybraille/sunnybraille-client) (public)
 - [자체 점역 알고리즘](https://github.com/sunnybraille/sunnybraille-algorithm) (private)
 
-## ✔️ 해바라기 팀 소개
+## ✔️ 팀원 소개
 
-### 박준형 (Client Developer & Deep learning Engineer)
-
-- **연세대학교 나노과학공학과** 재학
-- Junction Hackathon 기획 참여, 매장 사용을 촉진할 수 있는 새로운 **키오스크 폼팩터 KiWee** 개발 `2023.08`
-- DB금융경제공모전 ‘딥러닝 모델을 활용한 재생 에너지 발전소 최적 입지 선정 - 지역 균형 발전 및 RE100 지향 투자 적정성 제안’ 딥러닝 분석 제안 및 개발 `2024.01 ~ 2024.03`
-
-### 조은기 (Server Developer)
-
-- **연세대학교 컴퓨터과학과 & 산업공학과** 재학 `2019.03 ~`
-- **우아한테크코스** 5기 백엔드 수료 `2023.02 ~ 2023.11`
-- 2022 국립재활원 시청각장애인 보조기기 해커톤 대상 (보건복지부 장관상) 수상 (인공지능 EMS 점자 수트)
-- [깃허브](https://github.com/gitchannn)
-- [기술블로그 **깃짱코딩**](https://engineerinsight.tistory.com/)
-
-### 장현우 (Deep learning Engineer)
+### [장현우](https://github.com/J-nowcow) (CEO)
 
 - **연세대학교 산업공학과 & 응용통계학과** 재학 `2019.03 ~`
 - **SW마에스트로** 14기 수료 `2023.04 ~ 2023.11`
@@ -37,25 +23,18 @@
 - 2023년 연세대학교 **알고리즘 경진대회** 4위
 - 2023년 ICPC Seoul Regional 교내 예선 4위, 전국 본선 진출 (39위)
 
-### 채유성 (Transcribe Middleware Developer)
+### [조은기](https://github.com/gitchannn) (CTO, Server Developer)
 
-- **연세대학교 경제학과** 재학 `2023.03 ~`
-- **수식 점자 번역 알고리즘 단독 개발**
-- **장애/비장애 창업 경진대회** 대상
+- **연세대학교 컴퓨터과학과 & 산업공학과** 재학 `2019.03 ~`
+- **우아한테크코스** 5기 백엔드 수료 `2023.02 ~ 2023.11`
+- 2022 국립재활원 시청각장애인 보조기기 해커톤 대상 (보건복지부 장관상) 수상 (인공지능 EMS 점자 수트)
+- 기술블로그 [**깃짱코딩**](https://engineerinsight.tistory.com/) 운영
 
-### 정주원 (Product Designer)
+### [박준형](https://github.com/jun-brro) (Deep learning Engineer)
 
-- **연세대학교 정보인터랙션디자인** 재학
-- IGEE 글로벌 사회공헌원 지속가능발전 포럼 인턴 `2024.01 ~ 2024.03`
-- 홍익대학교 AAM(미래항공모빌리티) 스타트업 PLANA 산학 UX 디자인 연구 프로젝트 참여 `2023.07.31 ~ 2023.08.31`
-- Fitmedi (스타트업) UX 디자인 부서 인턴 `2021.06.28~08.06`
-- 2년 이상의 UX 디자인 및 브랜드 홍보 업무 경력
-
-### 서준수 (CEO)
-
-- **연세대학교 기계공학부** 재학 `2022.03 ~`
-- 법무법인 디라이트(D'LIGHT Law Group) Externship `2024.03 ~`
-- SK 행복나눔재단 시각장애학생 지표측정튜터링 참여 `2023.03 ~`
+- **연세대학교 나노과학공학과** 재학
+- Junction Hackathon 기획 참여, 매장 사용을 촉진할 수 있는 새로운 **키오스크 폼팩터 KiWee** 개발 `2023.08`
+- DB금융경제공모전 ‘딥러닝 모델을 활용한 재생 에너지 발전소 최적 입지 선정 - 지역 균형 발전 및 RE100 지향 투자 적정성 제안’ 딥러닝 분석 제안 및 개발 `2024.01 ~ 2024.03`
 
 ## ✔️ 수상
 
